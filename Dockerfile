@@ -1,3 +1,4 @@
+# Credit goes to https://mherman.org/blog/dockerizing-a-react-app/ for Dockerfile
 # pull official base image
 FROM node:13.12.0-alpine
 
